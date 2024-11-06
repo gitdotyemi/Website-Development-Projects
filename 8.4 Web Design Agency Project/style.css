@@ -14,8 +14,17 @@ h1 {
   font-size: 5rem;
 }
 
+img  {
+  float: left;
+}
+
+.creative {
+  color: rgb(3, 3, 58);
+}
+
 footer {
   text-align: right;
   color: midnightblue;
 }
+
 
